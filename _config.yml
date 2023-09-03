@@ -21,18 +21,16 @@
 title: RENDO Tanzania Limited
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We are a food and beverage distribution company that is passionate about delivering the best products to our customers. We have a wide range of products, including water, drinks, fresh produce, grains, and packaged food. We also offer wholesale and retail services. Our mission is to provide our customers with the best possible experience, and we are committed to customer satisfaction.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  rendotz@github.io
 
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
